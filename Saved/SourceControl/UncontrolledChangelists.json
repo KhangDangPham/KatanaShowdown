@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/Megascans/3D_Assets/Potato_vfdlbdrjw/MI_Potato_vfdlbdrjw_2K.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/Blueprints/Potato.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/Potato.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/__ExternalActors__/Maps/KatanaShowdown/3/AK/HKL7HP8KKF4GHR3AG9IS3C.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/ThirdPerson/Blueprints/UI_Defeat.uasset",
+				"C:/Users/Khang/Documents/Unreal Projects/KatanaShowdown/Content/ThirdPerson/Blueprints/UI_Victory.uasset"
+			]
+		}
+	]
+}
